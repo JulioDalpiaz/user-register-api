@@ -1,0 +1,19 @@
+# Maven
+target/
+HELP.md
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.classpath
+*.project
+*.settings/
+
+# Ambiente
+.env
+application-local.properties
+
+# Sistema
+.DS_Store
+Thumbs.db
